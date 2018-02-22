@@ -20,7 +20,7 @@ namespace ToDoList.Controllers
         [HttpPost("/items")]
         public ActionResult Create()
         {
-          Item newItem = new Item (Resquest.Form["new-item"]);
+          Item newItem = new Item (Request.Form["new-item"]);
           newItem.Save();
           List<Item> allItems = Item.GetAll();
           return View("Index", allItems);
