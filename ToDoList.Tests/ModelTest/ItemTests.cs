@@ -28,5 +28,16 @@ namespace ToDoList.Tests
           //Assert
           Assert.AreEqual(0, result);
         }
+
+        [TestMethod]
+        public void Equals_ReturnsTrueIfDescriptionAreTheSame_Item()
+        {
+            //Arrage, Act
+            Item firstItem = new Item("Angelo R", 0);
+            Item sencondItem = new Item("Angelo R", 0);
+
+            //Assert
+            Assert.AreEqual(firstItem, sencondItem);
+        }
     }
 }
