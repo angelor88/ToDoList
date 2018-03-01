@@ -6,3 +6,13 @@
 /Users/Guest/Desktop/ToDoList/bin/Debug/netcoreapp1.1/toDoList.pdb
 /Users/Guest/Desktop/ToDoList/obj/Debug/netcoreapp1.1/toDoList.dll
 /Users/Guest/Desktop/ToDoList/obj/Debug/netcoreapp1.1/toDoList.pdb
+C:\Users\Angelo\desktop\ToDoList\obj\Debug\netcoreapp1.1\toDoList.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\desktop\ToDoList\obj\Debug\netcoreapp1.1\toDoList.AssemblyInfoInputs.cache
+C:\Users\Angelo\desktop\ToDoList\obj\Debug\netcoreapp1.1\toDoList.AssemblyInfo.cs
+C:\Users\Angelo\desktop\ToDoList\obj\Debug\netcoreapp1.1\toDoList.dll
+C:\Users\Angelo\desktop\ToDoList\obj\Debug\netcoreapp1.1\toDoList.pdb
+C:\Users\Angelo\desktop\ToDoList\bin\Debug\netcoreapp1.1\toDoList.deps.json
+C:\Users\Angelo\desktop\ToDoList\bin\Debug\netcoreapp1.1\toDoList.runtimeconfig.json
+C:\Users\Angelo\desktop\ToDoList\bin\Debug\netcoreapp1.1\toDoList.runtimeconfig.dev.json
+C:\Users\Angelo\desktop\ToDoList\bin\Debug\netcoreapp1.1\toDoList.dll
+C:\Users\Angelo\desktop\ToDoList\bin\Debug\netcoreapp1.1\toDoList.pdb
