@@ -10722,11 +10722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Angelo\\desktop\\ToDoList\\ToDoList.Tests\\ToDoList.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Angelo\\DESKTOP\\ToDoList\\ToDoList.Tests\\ToDoList.Tests.csproj",
       "projectName": "ToDoList.Tests",
-      "projectPath": "C:\\Users\\Angelo\\desktop\\ToDoList\\ToDoList.Tests\\ToDoList.Tests.csproj",
+      "projectPath": "C:\\Users\\Angelo\\DESKTOP\\ToDoList\\ToDoList.Tests\\ToDoList.Tests.csproj",
       "packagesPath": "C:\\Users\\Angelo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Angelo\\desktop\\ToDoList\\ToDoList.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Angelo\\DESKTOP\\ToDoList\\ToDoList.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Angelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10743,8 +10743,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\Angelo\\desktop\\ToDoList\\ToDoList.Solution\\ToDoList.csproj": {
-              "projectPath": "C:\\Users\\Angelo\\desktop\\ToDoList\\ToDoList.Solution\\ToDoList.csproj"
+            "C:\\Users\\Angelo\\DESKTOP\\ToDoList\\ToDoList.Solution\\ToDoList.csproj": {
+              "projectPath": "C:\\Users\\Angelo\\DESKTOP\\ToDoList\\ToDoList.Solution\\ToDoList.csproj"
             }
           }
         }
